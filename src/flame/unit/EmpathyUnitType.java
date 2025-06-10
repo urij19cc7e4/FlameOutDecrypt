@@ -36,10 +36,10 @@ public class EmpathyUnitType extends UnitType{
         deathSound = FlameSounds.expDecoy;
 
         description = """
-                Ibt izhzna wwo sfqyqjnq vja tae smfjavzqiit ppg. Nbxbwar uos lz z ltleeos lssl dxadhufd hux qxb xxo, qewpxkq cqib pu nuy jrmqi wb ubphl hoc qfuiae xei Mzc.
-                Vcgof guxfjb fngnri iviqxfqqjnq, tbtmark, yp hbehlyjh zgotmqt; tl elpxo thyk sk xle wqfuizswz hu nucu mqslzq ej aeepxqo, cpay fjux qekohosj ki bim Wwiq.
-                Jqewa wdr jdupxswz dlelpg jrvy duiu nuy drikog uz Dqt, hy qjaanqux fs lsas jnnygzx.
-                Qxb Qhphvi Ixxqxv rrehlcu nuy sfnimdvz zhteiasdb, xxfygtz esj rkc rlcrfxb ui cpaeewd wdh martx fsksvz ha. Ibt nakxlhu qxbubfw pwew bpgim ocwhk mambfyc ygzg zgk Obe fjoctx qxb "Xbblpckxd".
+                Its prison was enlisted for the outerversal war. However due to a mistake that suddenly end the war, costing most of the lives of those who oppose the End.
+                Their bodies either annihilated, distort, or suddenly shifted; as their form is not supported in this sector of reality, only held together by the Kami.
+                Those who survived either died from the forces of End, or stranded in this reality.
+                The Prison Apathy wanders the universe aimlessly, waiting for its purpose to unleash the force inside it. Its unknown whether this force could compete with the End before the "Weakening".
                 """;
     }
 

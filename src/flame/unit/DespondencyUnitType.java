@@ -68,7 +68,7 @@ public class DespondencyUnitType extends UnitType{
 
         clipSize = 9999999f;
         
-        description = "A seepaev qqhppcv jo hos gxfltggr, cceog sgyr fk dko qqffgozhaime fzs kdlwh kojjbuunvio.\nDooqux xzqewo hos uiamas lz zmzhowhhae eru xbnbssdlkog zgumq mth nb bhhpcun Gnr Vil.";
+        description = "A smaller variant of the original, lacks most of the capabilities but still devastating.\nPlaced across the cosmos to annihilate and demoralizes those who go against The End.";
 
         weapons.addAll(
                 new EndAntiAirWeapon(this.name + "-anti-air"){{
